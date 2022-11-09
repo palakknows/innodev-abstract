@@ -1,0 +1,31 @@
+h1 
+{
+    color:blueviolet;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0em;
+}
+a:hover{
+    color:darkmagenta;
+    text-decoration: underline;
+}
+h1{
+    background-color: chartreuse;
+}
+body{
+    background-image: url("C:\Users\HP\Downloads\bgm2.jpg");
+}
+h2{
+    font-style: italic;
+    font-weight: bold;
+}
+p{
+    font-family: sans-serif;
+    color:rgb(10, 5, 105);
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+      
